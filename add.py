@@ -1,5 +1,5 @@
 #addition
 a=3
-b=7
+b=10
 c=a+b
 print(c)
